@@ -8,7 +8,7 @@ qq:28210913  
 响应式打赏工具，支持支付宝/微信/qq支付。 pc 扫码，移动端直接调出支付。显示打赏列表
 
 ## 现状 Demo
-<div  name="dashmain" id="dash-main-id-8793a5" class="dash-main-2 8793a5-6"></div>	<script type="text/javascript" charset="utf-8" src="http://word.98ki.com/yimiReward/js/reward.js"></script>
+http://word.98ki.com/yimiReward/index0.htm
 
 ## 里程碑
 2017.6.20 立项  
